@@ -1,3 +1,22 @@
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+  img{
+    border-radius:0.375rem !important
+  }
+</style>
+
 <h1 align="center">
   <a href="https://github.com/WolFWarr1oR/wolfwarrior.dev">
     <!-- Please provide path to your logo here -->
@@ -21,7 +40,6 @@
 <br />
 
 [![Project license](https://img.shields.io/github/license/WolFWarr1oR/wolfwarrior.dev.svg?style=flat-square)](LICENSE)
-<a style="border-radius:0.375rem"><img src='https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square'/></a>
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/WolFWarr1oR/wolfwarrior.dev/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by WolFWarr1oR](https://img.shields.io/badge/%3C%2F%3E%20with%20<3%20by-WolFWarr1oR-ff1414.svg?style=flat-square)](https://github.com/WolFWarr1oR)
 
