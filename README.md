@@ -11,7 +11,7 @@
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/WolFWarr1oR/wolfwarrior.dev/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a  href="https://github.com/WolFWarr1oR/wolfwarrior.dev/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
   <a href="https://github.com/WolFWarr1oR/wolfwarrior.dev/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   .<a href="https://github.com/WolFWarr1oR/wolfwarrior.dev/discussions">Ask a Question</a>
@@ -21,7 +21,7 @@
 <br />
 
 [![Project license](https://img.shields.io/github/license/WolFWarr1oR/wolfwarrior.dev.svg?style=flat-square)](LICENSE)
-
+<a border-radius='0.375rem'><img src='https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square'/></a>
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/WolFWarr1oR/wolfwarrior.dev/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by WolFWarr1oR](https://img.shields.io/badge/%3C%2F%3E%20with%20<3%20by-WolFWarr1oR-ff1414.svg?style=flat-square)](https://github.com/WolFWarr1oR)
 
